@@ -17,8 +17,8 @@
 #ifndef FLATBUFFERS_H_
 #define FLATBUFFERS_H_
 
-#include "flatbuffers/base.h"
-#include "flatbuffers/stl_emulation.h"
+#include "base.h"
+#include "stl_emulation.h"
 
 #ifndef FLATBUFFERS_CPP98_STL
 #  include <functional>
